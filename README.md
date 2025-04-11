@@ -73,12 +73,6 @@ Pull requests are welcome! Follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** – see the LICENSE file for details.
-
----
-
-**Made with 💻 by [@RADXIshan](https://github.com/RADXIshan)**
+**Made by [@RADXIshan](https://github.com/RADXIshan)**
 
 ---
