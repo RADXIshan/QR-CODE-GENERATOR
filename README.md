@@ -1,7 +1,3 @@
-Sure! Here's your `README.md` content with all the YAML-style code blocks (` ```markdown ` etc.) removed — this is just the raw markdown text you can paste directly:
-
----
-
 # QR Code Generator 🧾🔳
 
 A simple and user-friendly QR Code Generator built with ❤️. This web application allows users to generate QR codes for any text or URL input and download them as image files.
