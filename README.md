@@ -1,6 +1,6 @@
 # QR Code Generator 🧾🔳
 
-A simple and user-friendly QR Code Generator built with ❤️. This web application allows users to generate QR codes for any text or URL input and download them as image files.
+A simple and user-friendly QR Code Generator. This web application allows users to generate QR codes for any text or URL input and download them as image files.
 
 ---
 
